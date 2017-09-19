@@ -1,9 +1,9 @@
 {
     "users":[
-        { "id": 1, "username": "shaibazmulla", "password": "shaibazmulla", "name": "Shaibaz Mulla" },
-        { "id": 2, "username": "zohebfondu", "password": "zohebfondu", "name": "Zoheb Fondu" },
-        { "id": 3, "username": "shadtambu", "password": "shadtambu", "name": "Shad Tambu" },
-        { "id": 4, "username": "atifalji", "password": "atifalji", "name": "Atif Alji" },
-        { "id": 5, "username": "nawazbargir", "password": "nawazbargir", "name": "Nawaz Bargir" }
+        { "id": 1, "email": "shaibazmulla@gmail.com", "password": "shaibazmulla", "name": "Shaibaz Mulla" },
+        { "id": 2, "email": "zohebfondu@gmail.com", "password": "zohebfondu", "name": "Zoheb Fondu" },
+        { "id": 3, "email": "shadtambu@gmail.com", "password": "shadtambu", "name": "Shad Tambu" },
+        { "id": 4, "email": "atifalji@gmail.com", "password": "atifalji", "name": "Atif Alji" },
+        { "id": 5, "email": "nawazbargir@gmail.com", "password": "nawazbargir", "name": "Nawaz Bargir" }
     ]
 }
