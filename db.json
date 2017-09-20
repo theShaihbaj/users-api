@@ -5,6 +5,7 @@
             "email": "shaibazmulla@gmail.com", 
             "password": "shaibazmulla", 
             "name": "Shaibaz Mulla",
+            "mobile": "+91-7418529630"
             "address": {
                 "city": "Ratnagiri",
                 "state": "Maharashtra",
@@ -15,25 +16,49 @@
             "id": 2, 
             "email": "zohebfondu@gmail.com", 
             "password": "zohebfondu", 
-            "name": "Zoheb Fondu" 
+            "name": "Zoheb Fondu",
+            "mobile": "+91-9632587401"
+            "address": {
+                "city": "Ratnagiri",
+                "state": "Maharashtra",
+                "country": "India"
+            }
         },
         { 
             "id": 3, 
             "email": "shadtambu@gmail.com", 
             "password": "shadtambu", 
-            "name": "Shad Tambu" 
+            "name": "Shad Tambu",
+            "mobile": "+91-8523690147"
+            "address": {
+                "city": "Ratnagiri",
+                "state": "Maharashtra",
+                "country": "India"
+            }
         },
         { 
             "id": 4, 
             "email": "atifalji@gmail.com", 
             "password": "atifalji", 
-            "name": "Atif Alji" 
+            "name": "Atif Alji",
+            "mobile": "+91-7530215987"
+            "address": {
+                "city": "Ratnagiri",
+                "state": "Maharashtra",
+                "country": "India"
+            }
         },
         { 
             "id": 5, 
             "email": "nawazbargir@gmail.com", 
             "password": "nawazbargir", 
-            "name": "Nawaz Bargir" 
+            "name": "Nawaz Bargir",
+            "mobile": "+91-9658741230"
+            "address": {
+                "city": "Ratnagiri",
+                "state": "Maharashtra",
+                "country": "India"
+            }
         }
     ]
 }
